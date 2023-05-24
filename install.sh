@@ -10,7 +10,8 @@ cd ..
 sync
 echo "##############################################"
 echo "############ Installation Successful  ########"
-echo "############   Restart Enigma2 GUI... ########" 
+echo "############   Restart Enigma2 GUI... ########"
+echo "############   scriptedABY karimSATPRO ########"
 echo "##############################################"
 init 4
 sleep 2
